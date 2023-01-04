@@ -1,0 +1,15 @@
+/Users/camerondixon/Projects/delbug/delbug/bin/Debug/net6.0/delbug
+/Users/camerondixon/Projects/delbug/delbug/bin/Debug/net6.0/delbug.deps.json
+/Users/camerondixon/Projects/delbug/delbug/bin/Debug/net6.0/delbug.runtimeconfig.json
+/Users/camerondixon/Projects/delbug/delbug/bin/Debug/net6.0/delbug.dll
+/Users/camerondixon/Projects/delbug/delbug/bin/Debug/net6.0/delbug.pdb
+/Users/camerondixon/Projects/delbug/delbug/obj/Debug/net6.0/delbug.csproj.AssemblyReference.cache
+/Users/camerondixon/Projects/delbug/delbug/obj/Debug/net6.0/delbug.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondixon/Projects/delbug/delbug/obj/Debug/net6.0/delbug.AssemblyInfoInputs.cache
+/Users/camerondixon/Projects/delbug/delbug/obj/Debug/net6.0/delbug.AssemblyInfo.cs
+/Users/camerondixon/Projects/delbug/delbug/obj/Debug/net6.0/delbug.csproj.CoreCompileInputs.cache
+/Users/camerondixon/Projects/delbug/delbug/obj/Debug/net6.0/delbug.dll
+/Users/camerondixon/Projects/delbug/delbug/obj/Debug/net6.0/refint/delbug.dll
+/Users/camerondixon/Projects/delbug/delbug/obj/Debug/net6.0/delbug.pdb
+/Users/camerondixon/Projects/delbug/delbug/obj/Debug/net6.0/delbug.genruntimeconfig.cache
+/Users/camerondixon/Projects/delbug/delbug/obj/Debug/net6.0/ref/delbug.dll
